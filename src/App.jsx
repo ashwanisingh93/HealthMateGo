@@ -1,4 +1,4 @@
-// 1 hour 30 minutes
+// 2 hours
 
 import React from "react";
 import { Route, Routes } from "react-router-dom";
