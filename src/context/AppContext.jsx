@@ -1,4 +1,4 @@
-import { createContext } from "react";
+import { createContext, useEffect } from "react";
 import { doctors } from "../assets/assets";
 
 export const AppContext = createContext()
@@ -17,4 +17,6 @@ const AppContextProvider = (props) =>{
 }
 
 export default AppContextProvider
+
+
 
